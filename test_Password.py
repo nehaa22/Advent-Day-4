@@ -5,20 +5,26 @@ from Password import Password
 
 class PasswordTest(unittest.TestCase):
 
-    def test_Pass_if_number_should_be_in_increasing_order(self):
+    def test_Pass_if_number_is_in_increasing_order(self):
         number = 123445
         password = Password()
         self.assertTrue(password.validate(number))
 
-    def test_Fail_if_number_should_be_in_increasing_order(self):
-        number = 122456
-        password = Password()
-        self.assertTrue(password.validate(number))
-
-    def test_one_of_element_should_repeated(self):
+    def test_Fail_if_number_Not_in_increasing_order(self):
         number = 123456
         password = Password()
         self.assertFalse(password.validate(number))
+
+    def test_Fail_if_No_element_repeated(self):
+        number = 123456
+        password = Password()
+        self.assertFalse(password.validate(number))
+
+    def test_Pass_If_element_is_repeated_and_increasing(self):
+        number = 123455
+        password = Password()
+        self.assertTrue(password.validate(number))
+
 
 
 

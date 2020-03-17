@@ -16,3 +16,5 @@ class Password(object):
                     else:
                         return True
 
+
+# my_list = list(range(1, 1001))

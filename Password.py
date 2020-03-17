@@ -16,5 +16,10 @@ class Password(object):
                     else:
                         return True
 
+    def check_validate(self, passwords):
+        count = 0
 
-# my_list = list(range(1, 1001))
+        for numbers in passwords:
+            if self.validate(numbers):
+                count += 1
+        return count

@@ -15,6 +15,10 @@ class PasswordTest(unittest.TestCase):
         password = Password()
         self.assertTrue(password.validate(number))
 
+    def test_one_of_element_should_repeated(self):
+        number = 123456
+        password = Password()
+        self.assertFalse(password.validate(number))
 
 
 

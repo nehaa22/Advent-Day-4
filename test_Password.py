@@ -40,6 +40,11 @@ class PasswordTest(unittest.TestCase):
         password = Password()
         self.assertFalse(password.validate(number))
 
+    def test_Pass_for_third_advent_code_parameter_123789(self):
+        number = 123789
+        password = Password()
+        self.assertFalse(password.validate(number))
+
     def test_to_return_number_of_validate_password(self):
         numbers = [123456, 122345, 1223312, 122334, 111331]
         password = Password()

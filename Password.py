@@ -10,7 +10,7 @@ class Password(object):
         for i in range(len(value) - 1):
             for i in range(len(value) - 1):
                 if value[i] == value[i + 1]:
-                    if (i > 0 and value[i - 1] == value[i]):
+                    if i > 0 and value[i - 1] == value[i]:
                         continue
                     else:
                         return True

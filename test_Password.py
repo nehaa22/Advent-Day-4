@@ -59,3 +59,10 @@ class PasswordTest(unittest.TestCase):
         numbers = list(range(387638, 919123))
         password = Password()
         self.assertEqual(466, password.check_validate(numbers))
+
+    def test_Pass_for_third_advent_code_parameter_112233(self):
+        number = 112233
+        password = Password()
+        self.assertTrue(password.validate(number))
+
+

@@ -7,13 +7,17 @@ class Password(object):
             if value[i] > value[i + 1]:
                 return False
 
-        for i in range(len(value) - 1):
-            for i in range(len(value) - 1):
-                if value[i] == value[i + 1]:
-                    if i > 0 and value[i - 1] == value[i]:
-                        continue
-                    else:
-                        return True
+        pos = 0
+        is_repeated = False
+
+        while pos < len(value) - 1:
+            if value[pos] == value[pos + 1]:
+                pos += 2
+                is_repeated = True
+                continue
+            pos += 1
+
+        return is_repeated
 
     def check_validate(self, passwords):
         count = 0

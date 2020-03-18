@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b87ce0b-0315-47fb-a841-6410080f57e9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Password.py" beforeDir="false" afterPath="$PROJECT_DIR$/Password.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_Password.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_Password.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +33,57 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_Password.PasswordTest.test_Pass_for_third_advent_code_parameter_123444">
+    <configuration name="Unittests for test_Password.PasswordTest.test_Fail_if_No_element_is_double" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Advent_Day_3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Password.PasswordTest.test_Fail_if_No_element_is_double&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_Password.PasswordTest.test_Pass_for_third_advent_code_parameter_123444" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Advent_Day_3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Password.PasswordTest.test_Pass_for_third_advent_code_parameter_123444&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_Password.PasswordTest.test_Pass_if_number_is_in_increasing_order" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Advent_Day_3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Password.PasswordTest.test_Pass_if_number_is_in_increasing_order&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_Password.PasswordTest.test_Pass_for_third_advent_code_parameter_123444" />
+        <item itemvalue="Python tests.Unittests for test_Password.PasswordTest.test_Fail_if_No_element_is_double" />
+        <item itemvalue="Python tests.Unittests for test_Password.PasswordTest.test_Pass_if_number_is_in_increasing_order" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -43,5 +96,50 @@
       <updated>1584442587595</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1659" height="363" key="GridCell.Tab.0.bottom" timestamp="1584514150490">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="363" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1584514150490" />
+    <state width="1659" height="363" key="GridCell.Tab.0.center" timestamp="1584514150488">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="363" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1584514150488" />
+    <state width="1659" height="363" key="GridCell.Tab.0.left" timestamp="1584514150486">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="363" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1584514150486" />
+    <state width="1659" height="363" key="GridCell.Tab.0.right" timestamp="1584514150489">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="363" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1584514150489" />
+    <state width="1659" height="363" key="GridCell.Tab.1.bottom" timestamp="1584514150492">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1584514150492" />
+    <state width="1659" height="363" key="GridCell.Tab.1.center" timestamp="1584514150491">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1584514150491" />
+    <state width="1659" height="363" key="GridCell.Tab.1.left" timestamp="1584514150491">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1584514150491" />
+    <state width="1659" height="363" key="GridCell.Tab.1.right" timestamp="1584514150492">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1584514150492" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_Password.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

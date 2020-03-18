@@ -54,3 +54,8 @@ class PasswordTest(unittest.TestCase):
         numbers = [123456, 122345, 1223312, 122334, 111331, 567777]
         password = Password()
         self.assertEqual(3, password.check_validate(numbers))
+
+    def test_to_return_final_count_of_validate_password_from_advent_code_range(self):
+        numbers = list(range(387638, 919123))
+        password = Password()
+        self.assertEqual(466, password.check_validate(numbers))

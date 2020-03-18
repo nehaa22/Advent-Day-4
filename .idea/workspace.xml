@@ -98,48 +98,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1659" height="363" key="GridCell.Tab.0.bottom" timestamp="1584514150490">
+    <state width="1659" height="295" key="GridCell.Tab.0.bottom" timestamp="1584535463102">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="363" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1584514150490" />
-    <state width="1659" height="363" key="GridCell.Tab.0.center" timestamp="1584514150488">
+    <state width="1659" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1584535463102" />
+    <state width="1659" height="295" key="GridCell.Tab.0.center" timestamp="1584535463101">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="363" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1584514150488" />
-    <state width="1659" height="363" key="GridCell.Tab.0.left" timestamp="1584514150486">
+    <state width="1659" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1584535463101" />
+    <state width="1659" height="295" key="GridCell.Tab.0.left" timestamp="1584535463100">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="363" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1584514150486" />
-    <state width="1659" height="363" key="GridCell.Tab.0.right" timestamp="1584514150489">
+    <state width="1659" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1584535463100" />
+    <state width="1659" height="295" key="GridCell.Tab.0.right" timestamp="1584535463102">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="363" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1584514150489" />
-    <state width="1659" height="363" key="GridCell.Tab.1.bottom" timestamp="1584514150492">
+    <state width="1659" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1584535463102" />
+    <state width="1659" height="342" key="GridCell.Tab.1.bottom" timestamp="1584535215686">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1584514150492" />
-    <state width="1659" height="363" key="GridCell.Tab.1.center" timestamp="1584514150491">
+    <state width="1659" height="342" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1584535215686" />
+    <state width="1659" height="342" key="GridCell.Tab.1.center" timestamp="1584535215684">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1584514150491" />
-    <state width="1659" height="363" key="GridCell.Tab.1.left" timestamp="1584514150491">
+    <state width="1659" height="342" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1584535215684" />
+    <state width="1659" height="342" key="GridCell.Tab.1.left" timestamp="1584535215684">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1584514150491" />
-    <state width="1659" height="363" key="GridCell.Tab.1.right" timestamp="1584514150492">
+    <state width="1659" height="342" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1584535215684" />
+    <state width="1659" height="342" key="GridCell.Tab.1.right" timestamp="1584535215685">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1659" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1584514150492" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test_Password.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state width="1659" height="342" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1584535215685" />
   </component>
 </project>

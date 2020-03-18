@@ -7,17 +7,24 @@ class Password(object):
             if value[i] > value[i + 1]:
                 return False
 
-        pos = 0
-        is_repeated = False
+        repeated_counts = {}
+        for pos in range(len(value) - 1):
+            first = value[pos]
+            second = value[pos + 1]
 
-        while pos < len(value) - 1:
-            if value[pos] == value[pos + 1]:
-                pos += 2
-                is_repeated = True
-                continue
-            pos += 1
+            if first == second:
+                if first not in repeated_counts:
+                    repeated_counts[first] = 0
+                else:
+                    repeated_counts[first] += 1
 
-        return is_repeated
+        total = 0
+        for number in repeated_counts.values():
+            total += number
+
+        if total % 2 is 0 and len(repeated_counts) is not 0:
+            return True
+        return False
 
     def check_validate(self, passwords):
         count = 0
